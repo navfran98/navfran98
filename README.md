@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Franco Navarro
-- 💻 I’m currently studying Software Engineering at ITBA (End 2023)
+- 💻 I’m currently studying Software Engineering at [ITBA](https://www.itba.edu.ar) (Mid 2024)
+- **Information Technology Analyst** associate's degree at [ITBA](https://www.itba.edu.ar)
 - 📫 How to reach me: 
     - Email => franco.nava@outlook.es
     - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/franco-navarro-196b5b195/)
